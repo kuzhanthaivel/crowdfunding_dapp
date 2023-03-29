@@ -49,6 +49,6 @@ contract Crowdfunding {
 
     function getDonators() public {}
     
-    function getCampaign() public {}
+    function getCampaign() public {}swxkjhwsx
 
 }
